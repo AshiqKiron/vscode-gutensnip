@@ -4,6 +4,11 @@
     "description": "Simple WordPress Gutenberg component list generator",
     "version": "1.0.0",
     "publisher": "Ashiq",
+    "repository": {
+        "type": "git",
+        "url" : "https://github.com/AshiqKiron/vscode-gutensnip.git"
+    },
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.28.0"
     },
