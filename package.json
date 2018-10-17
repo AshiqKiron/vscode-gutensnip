@@ -1,0 +1,21 @@
+{
+    "name": "gutensnip",
+    "displayName": "WordPress Gutenberg Components List",
+    "description": "Simple WordPress Gutenberg component list generator",
+    "version": "1.0.0",
+    "publisher": "Ashiq",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
