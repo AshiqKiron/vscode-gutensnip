@@ -2,6 +2,9 @@
 
 All notable changes of the extension will be documented in this file.
 
+## [1.0.2]
+- Updated readme file & git repo
+
 ## [1.0.1]
 - Changed extension icon
 

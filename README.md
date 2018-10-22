@@ -1,65 +1,54 @@
-# gutensnip README
+# WordPress Gutenberg Component List
 
-This is the README for your extension "gutensnip". After writing up a brief description, we recommend including the following sections.
+This is a collection of WordPress Gutenberg component list snippets and autocompletions for Visual Studio Code
 
-## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
 
-For example if there is an image subfolder under your extension project workspace:
+- License: GNU/GPL
+- Version: 1.0.2
+- Extension URI: https://gitlab.com/tungvn/wordpress-snippet
+- Gutenberg Component list - https://wordpress.org/gutenberg/handbook/components/
 
-\!\[feature X\]\(images/feature-x.png\)
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+
+
+Autocomplete for:
+```sh
+WP Gutenberg : https://wordpress.org/gutenberg/handbook/components/
+```
+
+
+**Install instructions**
+Install via Extension Marketplace
+
+**Open Command on Visual Studio Code (Ctrl+Shift+P on Windows or Cmd+Shift+P on Mac/OSX)**
+>ext install WordPress Gutenberg Components List 
+Wait until install complete and restart VS Code
+
+
+**Install by Packaged Extension (.vsix)**
+
+>You can manually install an VS Code extension packaged in a .vsix file. 
+Simply install using the VS Code command line providing the path to the .vsix file.
+*code extension_name.vsix*
+
+- The extension will be installed under your user .vscode/extensions folder. You may provide multiple .vsix files on the command line to install multiple extensions at once.
+- You can also install a .vsix by opening the file from within VS Code. Run File > Open File... or Ctrl+O and select the extension .vsix.
+
 
 ## Requirements
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+- Make sure you working file type is "JavaScript"
 
-## Extension Settings
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+## How to use it?
+- Open any javascript file and type -
+```sh
+gutensnip
+```
 
-For example:
 
-This extension contributes the following settings:
-
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
------------------------------------------------------------------------------------------------------------
-
-## Working with Markdown
-
-**Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+### Changelog:
+- Version 1.1.2: Updated readme file , git repo & added screenshot
+- Version 1.0.1: Changed extension icon
+- Version 1.0.0: Initial release of the extension
