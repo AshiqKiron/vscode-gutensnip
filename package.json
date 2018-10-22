@@ -2,7 +2,7 @@
     "name": "gutensnip",
     "displayName": "WordPress Gutenberg Components List",
     "description": "Simple WordPress Gutenberg component list generator",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "publisher": "ashiqkiron",
     "repository": {
         "type": "git",
