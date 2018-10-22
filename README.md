@@ -6,7 +6,7 @@ This is a collection of WordPress Gutenberg component list snippets and autocomp
 
 - License: GNU/GPL
 - Version: 1.0.2
-- Extension URI: https://gitlab.com/tungvn/wordpress-snippet
+- Extension URI: https://github.com/AshiqKiron/vscode-gutensnip
 - Gutenberg Component list - https://wordpress.org/gutenberg/handbook/components/
 
 
@@ -47,8 +47,12 @@ Simply install using the VS Code command line providing the path to the .vsix fi
 gutensnip
 ```
 
+## screenshot
+![Gutensnip Screenshot](https://raw.githubusercontent.com/AshiqKiron/vscode-gutensnip/master/images/gutensnip-screenshot.PNG)
+
 
 ### Changelog:
-- Version 1.1.2: Updated readme file , git repo & added screenshot
+- Version 1.0.3: Fixed typo & Added snippet screenshot
+- Version 1.0.2: Updated readme file , git repo 
 - Version 1.0.1: Changed extension icon
 - Version 1.0.0: Initial release of the extension
