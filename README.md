@@ -56,6 +56,7 @@ gutensnip
 **Product by [Asphalt Themes](https://asphaltthemes.com/)**
 
 ### Changelog:
+- Version 1.0.5: Updated component List & removed duplicates
 - Version 1.0.4: Updated readme file
 - Version 1.0.3: Fixed typo & Added snippet screenshot
 - Version 1.0.2: Updated readme file , git repo 

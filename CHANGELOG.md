@@ -2,6 +2,11 @@
 
 All notable changes of the extension will be documented in this file.
 
+## [1.0.5]
+- Update: Component List
+- Add: New Components
+- Remove: Duplicates
+
 ## [1.0.4]
 - Updated readme file
 
